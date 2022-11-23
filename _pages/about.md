@@ -18,6 +18,6 @@ redirect_from:
 
 Academic Service
 ======
-- Conference Reviewer: ICML 2021, NeurIPS 2021, ICLR 2021, ICLR 2022, CVPR 2021, CVPR 2022, ICCV 2021, AAAI 2022.
+- Conference Reviewer: ICML 2021-2023, NeurIPS 2021-2022 ICLR 2021-2023, CVPR 2021-2023, ICCV 2021, AAAI 2022.
 
-- Journal Reviewer: IEEE Journal of Cybernatics.
+- Journal Reviewer: IEEE Journal of Cybernatics, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), NeuroComputing, Machine Learning Journal (Springer), Transactions on Machine Learning Research 
