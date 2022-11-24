@@ -1,7 +1,7 @@
 ---
 title: "Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint"
 collection: publications
-permalink: /publication/2022-03-01-paper-title-number-4
+permalink: /publication/2015-10-01-paper-title-number-3
 
 [//]: # (excerpt: 'This paper is about the number 3. The number 4 is left for future work.')
 date: CVPR (2022)
