@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shanghai Jiao Tong University, 2014-2018
+* Ph.D in The University of Sydney, 2019-2022 
+* Post-Doc in The University of Tokyo, 2022-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Engineering Intern
+  * Shanghai Yitu Tech
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Scientist Intern
+  * Salesforce Research Asia
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[//]: # (Skills)
+
+[//]: # (======)
+
+[//]: # (* Skill 1)
+
+[//]: # (* Skill 2)
+
+[//]: # (  * Sub-skill 2.1)
+
+[//]: # (  * Sub-skill 2.2)
+
+[//]: # (  * Sub-skill 2.3)
+
+[//]: # (* Skill 3)
 
 Publications
 ======
@@ -54,6 +57,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[//]: # (Service and leadership)
+
+[//]: # (======)
+
+[//]: # (* Currently signed in to 43 different slack teams)
