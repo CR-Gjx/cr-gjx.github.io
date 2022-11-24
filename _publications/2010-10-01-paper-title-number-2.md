@@ -1,10 +1,10 @@
 ---
-title: "Ltf: A label transformation framework for correcting label shift"
+title: "Ltf: A label transformation framework for correcting label shift (ICML 2021)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 
 [//]: # (excerpt: 'This paper is about the number 2. The number 3 is left for future work.')
-date: ICML (2021)
+date: 2021-7-30
 
 [//]: # (venue: 'Journal 1')
 [//]: # (paperurl: 'http://academicpages.github.io/files/paper2.pdf')

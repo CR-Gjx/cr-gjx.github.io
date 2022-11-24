@@ -1,10 +1,10 @@
 ---
-title: "A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning"
+title: "A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning (ICLR 2022)"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 
 [//]: # (excerpt: 'This paper is about the number 1. The number 2 is left for future work.')
-date: ICLR (2022)
+date: 2022-1-30
 
 [//]: # (venue: 'Journal 1')
 [//]: # (paperurl: 'http://academicpages.github.io/files/paper1.pdf')
