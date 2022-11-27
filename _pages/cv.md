@@ -56,11 +56,24 @@ Publications
 [//]: # (  {% endfor %}</ul>)
 
 [//]: # (  )
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Honors
+======
+* PhD Completion Scholarship of the University of Sydney (2022) USYD
+
+* Best Undergraduate Thesis Candidate of Shanghai Jiao Tong University (1%) 
+  
+* SJTU Academic Excellence Scholarship (2015-2017)
+  
+* Meritorious Winner of Mathematical Contest in Modeling (2016)
+  
+* Outstanding Students of Shanghai Jiao Tong University (2014-2015)
   
 [//]: # (Service and leadership)
 
