@@ -15,4 +15,3 @@ date: 2022-1-30
 
 [Download paper here](https://arxiv.org/abs/2206.04551)
 
-[//]: # (Recommended citation: Your Name, You. &#40;2009&#41;. "Paper Title Number 1." <i>Journal 1</i>. 1&#40;1&#41;.)

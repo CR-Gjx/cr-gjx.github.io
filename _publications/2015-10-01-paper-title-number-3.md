@@ -16,4 +16,3 @@ paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/11957'
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-[//]: # (Recommended citation: Your Name, You. &#40;2015&#41;. "Paper Title Number 3." <i>Journal 1</i>. 1&#40;3&#41;.)

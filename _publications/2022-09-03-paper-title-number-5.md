@@ -1,7 +1,7 @@
 ---
-title: "Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint (CVPR 2022)"
+title: "From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models  (Under Review)"
 collection: publications
-permalink: /publication/2022-03-01-paper-title-number-4
+permalink: /publication/2022-09-03-paper-title-number-5
 
 [//]: # (excerpt: 'This paper is about the number 3. The number 4 is left for future work.')
 date: 2022-03-01
@@ -14,5 +14,4 @@ date: 2022-03-01
 
 [//]: # (This paper is about the number 3. The number 4 is left for future work.)
 
-[Download paper here](https://openaccess.thecvf.com/content/CVPR2022/html/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.html)
-
+[Download paper here](https://openreview.net/forum?id=Ck1UtnVukP8&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))

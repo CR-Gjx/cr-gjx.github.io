@@ -15,4 +15,3 @@ date: 2021-7-30
 
 [Download paper here](http://proceedings.mlr.press/v119/guo20d.html)
 
-[//]: # (Recommended citation: Your Name, You. &#40;2010&#41;. "Paper Title Number 2." <i>Journal 1</i>. 1&#40;2&#41;.)
