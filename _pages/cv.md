@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Shanghai Jiao Tong University, 2014-2018
 * Ph.D in The University of Sydney, 2019-2022 
-* Post-Doc in The University of Tokyo, 2022-2023
+
+[//]: # (* Post-Doc in The University of Tokyo, 2022-2023)
 
 Work experience
 ======
