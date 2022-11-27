@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-- I am a Ph.D. student in the Computer Science Department at The University of Sydney, advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Doctor [Mingming Gong](https://mingming-gong.github.io/).
+- I am a Ph.D. student in the Computer Science Department at The University of Sydney, advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Dr. [Mingming Gong](https://mingming-gong.github.io/).
 
 - I received my Bachelor’s Degree in [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
 
