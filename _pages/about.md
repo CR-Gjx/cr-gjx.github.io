@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html) 
+- I am now a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html).
 
 - I was a Ph.D. student in the Computer Science Department at The University of Sydney, advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Dr. [Mingming Gong](https://mingming-gong.github.io/).
 
@@ -19,6 +19,6 @@ redirect_from:
 
 Academic Service
 ======
-- Conference Reviewer: ICML 2021-2023, NeurIPS 2021-2022, ICLR 2021-2023, CVPR 2021-2023, ICCV 2021, AAAI 2022.
+- Conference Reviewer: ICML 2021-2023, NeurIPS 2021-2022, ICLR 2021-2023, CVPR 2021-2023, ICCV 2021-2023, AAAI 2022.
 
 - Journal Reviewer: IEEE Journal of Cybernatics, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), NeuroComputing, Machine Learning Journal (Springer), Transactions on Machine Learning Research 
