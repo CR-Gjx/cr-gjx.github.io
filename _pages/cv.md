@@ -68,9 +68,13 @@ Teaching
 
 Honors
 ======
+* Faculty of Engineering PhD Completion Award (2022) USYD
+
 * PhD Completion Scholarship of the University of Sydney (2022) USYD
 
-* Best Undergraduate Thesis Candidate of Shanghai Jiao Tong University (1%) 
+* Postgraduate Research Scholarship in Computer Vision of USYD (2019)
+
+* Best Undergraduate Thesis Candidate of Shanghai Jiao Tong University (1%) (2018)
   
 * SJTU Academic Excellence Scholarship (2015-2017)
   
