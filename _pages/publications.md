@@ -18,21 +18,21 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 
 
 **Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint**  
-**Jiaxian Guo**, Jiachen Li, Mingming Gong Huan Fu, Kun Zhang and Dacheng Tao    
+**Jiaxian Guo**, Jiachen Li, Mingming Gong Huan Fu, Kun Zhang and Dacheng Tao     
 <span style="color:green; font-style:italic">CVPR 2022</span>  
 
 **A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning**  
-**Jiaxian Guo**, Mingming Gong and Dacheng Tao 
+**Jiaxian Guo**, Mingming Gong and Dacheng Tao  
 <span style="color:green; font-style:italic">ICLR 2022</span>  
 
 
 **LTF: A Label Transformation Framework for Correcting Label Shift**  
-**Jiaxian Guo**, Mingming Gong, Tongliang Liu, Kun Zhang and Dacheng Tao  
+**Jiaxian Guo**, Mingming Gong, Tongliang Liu, Kun Zhang and Dacheng Tao    
 <span style="color:green; font-style:italic">ICML 2020 (Oral)</span>  
 
 
 **Long Text Generation via Adversarial Training with Leaked Information**  
-**Jiaxian Guo**, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, and Yong Yu   
+**Jiaxian Guo**, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, and Yong Yu     
 <span style="color:green; font-style:italic">AAAI 2018</span>  
 
 **Hierarchical Prototypes for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning**  
