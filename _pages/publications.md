@@ -8,6 +8,7 @@ author_profile: true
 See a full list on  [Google Scholar](https://scholar.google.com/citations?user=wQgPocEAAAAJ&hl=en)  
 
 **From Image to Textual Prompts: A Plug-and-Play Module for Zero-shot VQA with a Frozen Large Language Model**
+
 **Jiaxian Guo**, Junnan Li, Dongxu Li, Anthony Tiong, Boyang Li, Dacheng Tao, Steven HOI 
 CVPR, 2023 
 
