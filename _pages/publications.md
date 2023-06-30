@@ -60,5 +60,5 @@ SIGIR 2018
 **DNQ: Dynamic Network Quantization**  
 Yuhui Xu, Shuai Zhang, Yingyong Qi, **Jiaxian Guo**, Weiyao Lin, Hongkai Xiong  
 DCC 2019
-%		
+
 
