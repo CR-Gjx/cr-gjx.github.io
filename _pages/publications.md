@@ -44,6 +44,14 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 Xingzhou Lou, **Jiaxian Guo**, Junge Zhang, Jun Wang, Kaiqi Huang, Yali Du   
 AAMAS 2023 
 
+**An Efficient End-to-End Training Approach for Zero-Shot Human-AI Coordination**  
+Xue Yan, **Jiaxian Guo**, Xingzhou Lou, Jun Wang, Haifeng Zhang, Yali Du   
+Neurips 2023 
+
+**DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views**  
+Paul Yoo, **Jiaxian Guo**#, Yutaka Matsuo, Shixiang Shane Gu  
+Neurips 2023 
+
 **Prescribed Safety Performance Imitation Learning from A Single Expert Dataset**  
 Zhihao Cheng, Li Shen, Miaoxi Zhu, **Jiaxian Guo**, Meng Fang, Liu Liu, Bo Du, Dacheng Tao  
 T-PAMI 2023 
