@@ -11,34 +11,43 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 
 ---
 
+## Large Language Model
 
 **From Image to Textual Prompts: A Plug-and-Play Module for Zero-shot VQA with a Frozen Large Language Model**  
 **Jiaxian Guo**, Junnan Li, Dongxu Li, Anthony Tiong, Boyang Li, Dacheng Tao, Steven HOI  
 <span style="color:green; font-style:italic">CVPR, 2023</span>  
 
+**Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4**  
+**Jiaxian Guo**, Bo Yang, Paul Yoo, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo 
+(under review)
 
-**Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint**  
-**Jiaxian Guo**, Jiachen Li, Mingming Gong Huan Fu, Kun Zhang and Dacheng Tao     
-<span style="color:green; font-style:italic">CVPR 2022</span>  
+## Text Generation
+
+**Long Text Generation via Adversarial Training with Leaked Information**  
+**Jiaxian Guo**, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, and Yong Yu     
+<span style="color:green; font-style:italic">AAAI 2018</span>  
+
+
+**Texygen: A Benchmarking Platform for Text Generation Models**  
+Yaoming Zhu, Sidi Lu, Lei Zheng, **Jiaxian Guo**, Jun Wang, and Yong Yu  
+SIGIR 2018
+
+
+## Decision-Making and Human-AI Cooperation
+
 
 **A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning**  
 **Jiaxian Guo**, Mingming Gong and Dacheng Tao  
 <span style="color:green; font-style:italic">ICLR 2022</span>  
 
 
-**LTF: A Label Transformation Framework for Correcting Label Shift**  
-**Jiaxian Guo**, Mingming Gong, Tongliang Liu, Kun Zhang and Dacheng Tao    
-<span style="color:green; font-style:italic">ICML 2020 (Oral)</span>  
-
-
-**Long Text Generation via Adversarial Training with Leaked Information**  
-**Jiaxian Guo**, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, and Yong Yu     
-<span style="color:green; font-style:italic">AAAI 2018</span>  
-
 **Hierarchical Prototypes for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning**  
 **Jiaxian Guo**, Mingming Gong, Yali Du, Zhen Wang, Dacheng Tao  
 (under review)
 
+**Prescribed Safety Performance Imitation Learning from A Single Expert Dataset**  
+Zhihao Cheng, Li Shen, Miaoxi Zhu, **Jiaxian Guo**, Meng Fang, Liu Liu, Bo Du, Dacheng Tao  
+T-PAMI 2023 
 
 **PECAN: Leveraging Policy Ensemble for Context-Aware Zero-Shot Human-AI Coordination**  
 Xingzhou Lou, **Jiaxian Guo**, Junge Zhang, Jun Wang, Kaiqi Huang, Yali Du   
@@ -48,22 +57,34 @@ AAMAS 2023
 Xue Yan, **Jiaxian Guo**, Xingzhou Lou, Jun Wang, Haifeng Zhang, Yali Du   
 Neurips 2023 
 
+
+
+## Domain Adaptation
+
+**LTF: A Label Transformation Framework for Correcting Label Shift**  
+**Jiaxian Guo**, Mingming Gong, Tongliang Liu, Kun Zhang and Dacheng Tao    
+<span style="color:green; font-style:italic">ICML 2020 (Oral)</span>  
+
+
+**Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint**  
+**Jiaxian Guo**, Jiachen Li, Mingming Gong Huan Fu, Kun Zhang and Dacheng Tao     
+<span style="color:green; font-style:italic">CVPR 2022</span>  
+
+
+## 3D
+
 **DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views**  
 Paul Yoo, **Jiaxian Guo**#, Yutaka Matsuo, Shixiang Shane Gu  
 Neurips 2023 
 
-**Prescribed Safety Performance Imitation Learning from A Single Expert Dataset**  
-Zhihao Cheng, Li Shen, Miaoxi Zhu, **Jiaxian Guo**, Meng Fang, Liu Liu, Bo Du, Dacheng Tao  
-T-PAMI 2023 
+
+
+## Others
 
 **Online Continual Learning with Contrastive Vision Transformer**  
 Zhen Wang, Liu Liu, Yajing Kong, **Jiaxian Guo**, Dacheng Tao  
 ECCV 2022
 
-
-**Texygen: A Benchmarking Platform for Text Generation Models**  
-Yaoming Zhu, Sidi Lu, Lei Zheng, **Jiaxian Guo**, Jun Wang, and Yong Yu  
-SIGIR 2018
 
 **DNQ: Dynamic Network Quantization**  
 Yuhui Xu, Shuai Zhang, Yingyong Qi, **Jiaxian Guo**, Weiyao Lin, Hongkai Xiong  
