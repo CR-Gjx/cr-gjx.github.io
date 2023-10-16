@@ -11,7 +11,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 
 ---
 
-## Large Language Model
+## <span style="color:red; font-style:italic">Large Language Model</span>  
 
 **From Image to Textual Prompts: A Plug-and-Play Module for Zero-shot VQA with a Frozen Large Language Model**  
 **Jiaxian Guo**, Junnan Li, Dongxu Li, Anthony Tiong, Boyang Li, Dacheng Tao, Steven HOI  
@@ -21,7 +21,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 **Jiaxian Guo**, Bo Yang, Paul Yoo, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo 
 (under review)
 
-## Text Generation
+## <span style="color:red; font-style:italic">Text Generation</span> 
 
 **Long Text Generation via Adversarial Training with Leaked Information**  
 **Jiaxian Guo**, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, and Yong Yu     
@@ -33,7 +33,7 @@ Yaoming Zhu, Sidi Lu, Lei Zheng, **Jiaxian Guo**, Jun Wang, and Yong Yu
 SIGIR 2018
 
 
-## Decision-Making and Human-AI Cooperation
+## <span style="color:red; font-style:italic">Decision-Making and Human-AI Cooperation</span> 
 
 
 **A Relational Intervention Approach for Unsupervised Dynamics Generalization in Model-Based Reinforcement Learning**  
@@ -59,7 +59,7 @@ Neurips 2023
 
 
 
-## Domain Adaptation
+## <span style="color:red; font-style:italic">Domain Adaptation</span> 
 
 **LTF: A Label Transformation Framework for Correcting Label Shift**  
 **Jiaxian Guo**, Mingming Gong, Tongliang Liu, Kun Zhang and Dacheng Tao    
@@ -71,7 +71,7 @@ Neurips 2023
 <span style="color:green; font-style:italic">CVPR 2022</span>  
 
 
-## 3D
+## <span style="color:red; font-style:italic">3D</span> 
 
 **DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views**  
 Paul Yoo, **Jiaxian Guo**#, Yutaka Matsuo, Shixiang Shane Gu  
@@ -79,7 +79,7 @@ Neurips 2023
 
 
 
-## Others
+## <span style="color:red; font-style:italic">Others</span> 
 
 **Online Continual Learning with Contrastive Vision Transformer**  
 Zhen Wang, Liu Liu, Yajing Kong, **Jiaxian Guo**, Dacheng Tao  
