@@ -21,6 +21,16 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 **Jiaxian Guo**, Bo Yang, Paul Yoo, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo 
 (under review)
 
+## <span style="color:red; font-style:italic">3D and Diffusion Models</span> 
+
+**DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views**  
+Paul Yoo, **Jiaxian Guo**#, Yutaka Matsuo, Shixiang Shane Gu  
+Neurips 2023 
+
+**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**  
+Xin Zhang*, **Jiaxian Guo***, Paul Yoo Yutaka Matsuo, Yusuke Iwasawa
+ICASSP 2024 
+
 ## <span style="color:red; font-style:italic">Text Generation</span> 
 
 **Long Text Generation via Adversarial Training with Leaked Information**  
@@ -71,11 +81,7 @@ Neurips 2023
 <span style="color:green; font-style:italic">CVPR 2022</span>  
 
 
-## <span style="color:red; font-style:italic">3D</span> 
 
-**DreamSparse: Escaping from Plato’s Cave with 2D Diffusion Model Given Sparse Views**  
-Paul Yoo, **Jiaxian Guo**#, Yutaka Matsuo, Shixiang Shane Gu  
-Neurips 2023 
 
 
 
