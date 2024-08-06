@@ -13,18 +13,24 @@ Education
 ======
 * B.S. in Shanghai Jiao Tong University, 2014-2018
 * Ph.D in The University of Sydney, 2019-2022 
-* PostDoc in The University of Tokyo, 2022-Now
+* PostDoc in The University of Tokyo, 2022-2023
 
 
 [//]: # (* Post-Doc in The University of Tokyo, 2022-2023)
 
 Work experience
 ======
-* Summer 2016: Engineering Intern
-  * Shanghai Yitu Tech
+* 07/2024 - Now: Research Scientist
+  * Google Research
+
+* 03/2024 - 07/2024: Research Engineer
+  * TikTok Australia (Built RLHF for Multi-Modal Large Language Model from scratch)
 
 * Summer 2022: Research Scientist Intern
   * Salesforce Research Asia
+ 
+* Summer 2016: Engineering Intern
+  * Shanghai Yitu Tech
   
 [//]: # (Skills)
 
