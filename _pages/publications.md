@@ -19,7 +19,7 @@ See a full list on  [Google Scholar](https://scholar.google.com/citations?user=w
 
 **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4**  
 **Jiaxian Guo**, Bo Yang, Paul Yoo, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka Matsuo  
-<span style="color:green; font-style:italic">COLM 2024</span> <span style="color:green; font-style:italic">(RL+LLMs)@AAAI 2024</span>  
+<span style="color:green; font-style:italic">COLM 2024</span>    <span style="color:green; font-style:italic">(RL+LLMs)@AAAI 2024</span>  
 
 ## <span style="color:red; font-style:italic">3D and Diffusion Models</span> 
 
