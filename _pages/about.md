@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html).
+- I am now a Research Scientist at Google Research Australia, aiming to improve the inference efficiency of current large foundation models or propose efficient foundation model architectures.
+
+- I was a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html).
 
 - I was a Ph.D. student in the Computer Science Department at The University of Sydney, advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Dr. [Mingming Gong](https://mingming-gong.github.io/).
 
