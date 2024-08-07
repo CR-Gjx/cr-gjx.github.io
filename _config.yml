@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiaxian Guo"
   avatar           : "profile.png"
-  bio              : "PostDoc, The University of Tokyo"
-  location         : "Tokyo, Japan"
+  bio              : "Research Scientist, Google Research"
+  location         : "Sydney, Australia"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wQgPocEAAAAJ&hl=en"
-  email            : "jguo5934@uni.sydney.edu.au"
+  email            : "jeffguo@google.com"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
