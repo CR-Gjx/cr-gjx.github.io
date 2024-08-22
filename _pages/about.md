@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures. Concurrently, I serve as a visiting researcher at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/en/) at the University of Tokyo, where I mentor students exploring LLM-based agents, causality in LLMs, and multi-modal large language models. Feel free to connect if you are interested in these directions!
-
+- I am now a Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures. Concurrently, I serve as a visiting researcher at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/en/) at the University of Tokyo, where I mentor students exploring **LLM-based agents, causality in LLMs and multi-modal large language models**. I am looking for outstanding and highly motivated students or collaborators to work together in the above directions. **Please feel free to contact me if you are interested**.
+  
 - I was a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html).
 
 - I was a Ph.D. student in the Computer Science Department at The University of Sydney, advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Dr. [Mingming Gong](https://mingming-gong.github.io/).
