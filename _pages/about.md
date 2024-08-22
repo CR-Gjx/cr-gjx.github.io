@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a Research Scientist at Google Research Australia, aiming to improve the inference efficiency of current large foundation models or propose efficient foundation model architectures.
+- I am now a Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures. Concurrently, I serve as a visiting researcher at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/en/), where I mentor students exploring LLM-based agents, causality in LLMs, and multi-modal large language models. Feel free to connect!
 
 - I was a PostDoc at the University of Tokyo, advised by Dr. [Shane Gu](https://sites.google.com/view/gugurus) and Prof. [Yutaka Matsuo](http://ymatsuo.com/index.html).
 
