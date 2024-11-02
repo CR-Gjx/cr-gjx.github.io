@@ -31,6 +31,10 @@ Neurips 2023
 Xin Zhang\*, **Jiaxian Guo**\*, Paul Yoo Yutaka Matsuo, Yusuke Iwasawa  
 ICASSP 2024 
 
+**In-N-Out: Lifting 2D Diffusion Prior for 3D Object Removal via Tuning-Free Latents Alignment**
+Dongting Hu, Huan Fu, **Jiaxian Guo**, Liuhua Peng, Tingjin Chu, Feng Liu, Tongliang Liu, Mingming Gong 
+Neurips 2024
+
 ## <span style="color:red; font-style:italic">Text Generation</span> 
 
 **Long Text Generation via Adversarial Training with Leaked Information**  
