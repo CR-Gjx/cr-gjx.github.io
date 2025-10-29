@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures.
+- I am now a Senior Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures.
 
 - At Google, I am the main contributor of [Gemma3n](https://deepmind.google/models/gemma/gemma-3n/), the open-sourced LLM for on-device scenarios, where I launched one of the main architectural changes. I also contributed [Gemini-2.5](https://deepmind.google/models/gemini/pro/) series and model design of the next generation Gemini. 
 
