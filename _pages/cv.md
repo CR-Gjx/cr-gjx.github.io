@@ -20,7 +20,10 @@ Education
 
 Work experience
 ======
-* 07/2024 - Now: Research Scientist
+* 11/2025 - Now: Senior Research Scientist
+  * Google Research
+    
+* 07/2024 - 11/2025: Research Scientist
   * Google Research
 
 * 03/2024 - 07/2024: Research Engineer
