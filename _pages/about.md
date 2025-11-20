@@ -10,7 +10,7 @@ redirect_from:
 
 - I am now a Senior Research Scientist at Google Research Australia, dedicated to enhancing the inference efficiency of large foundation models and proposing efficient model architectures.
 
-- At Google, I am the main contributor of [Gemma3n](https://deepmind.google/models/gemma/gemma-3n/), the open-sourced LLM for on-device scenarios, where I launched one of the main architectural changes. I also contributed [Gemini-2.5](https://deepmind.google/models/gemini/pro/) series and model design of the next generation Gemini. 
+- At Google, I am the main contributor of [Gemma3n](https://deepmind.google/models/gemma/gemma-3n/), the open-sourced LLM for on-device scenarios, where I launched one of the main architectural changes. I contributed to one model change of [Gemini-3](https://blog.google/products/gemini/gemini-3/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=) and [Gemini-2.5](https://deepmind.google/models/gemini/pro/) series. Working on the next Gemini. 
 
 - Concurrently, I serve as a visiting researcher at [Matsuo Lab](https://weblab.t.u-tokyo.ac.jp/en/) at the University of Tokyo, where I mentor students exploring **LLM-based agents, causality in LLMs and multi-modal large language models**. I am looking for outstanding and highly motivated students or collaborators to work together in the above directions. **Please feel free to contact me if you are interested**.
   
